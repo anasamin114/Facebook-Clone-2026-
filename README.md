@@ -34,7 +34,7 @@ pip2 install mechanize
 
 pip2 install requests bs4
 
-git clone https://github.com/Root-Of-Hunter/Facebook-id-hack
+git clone https://github.com/anasamin114/Facebook-Clone-2026-
 
 cd Facebook-id-hack
 
