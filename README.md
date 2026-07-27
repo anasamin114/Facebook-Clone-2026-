@@ -36,6 +36,6 @@ pip2 install requests bs4
 
 git clone https://github.com/anasamin114/Facebook-Clone-2026-
 
-cd Facebook-id-hack
+cd Facebook-Clone-2026-
 
 python3 VK.py
