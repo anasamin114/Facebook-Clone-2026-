@@ -34,6 +34,8 @@ pip2 install mechanize
 
 pip2 install requests bs4
 
+chmod +x VK.py
+
 git clone https://github.com/anasamin114/Facebook-Clone-2026-
 
 cd Facebook-Clone-2026-
